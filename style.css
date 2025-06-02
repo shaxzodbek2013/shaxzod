@@ -1,0 +1,29 @@
+
+
+.B{
+text-align: center;
+border-radius: 5px;
+background-color: rgb(72, 72, 103);
+color: rgb(254, 253, 253);
+}
+.A{
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(52, 239, 19);
+}
+
+.V{
+    color: black;
+}
+
+.G{
+    text-align: center;
+    border-radius: 5px;
+    background-color: aquamarine;
+    color: rgb(17, 255, 0);
+    
+}
+.q{
+    color: black;
+}
